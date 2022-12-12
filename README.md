@@ -1,2 +1,2 @@
-# Client-Pre-Task
-Late Night Restaurant Client Pre Task Repository
+# Frontend-Pre-Task
+Late Night Restaurant Frontend Pre Task Repository
